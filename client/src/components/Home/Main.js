@@ -28,7 +28,7 @@ const Main = () => {
     <>
       <section className="content-main">
         <div className="content-header">
-          <h2 className="content-title"> Dashboard - Hello </h2>
+          <h2 className="content-title"> Dashboard - Hello -test </h2>
         </div>
         {/* Top Total */}
         <TopTotal orders={orders} products={products} />
